@@ -1,0 +1,2 @@
+Commit Placeholder
+  Git erkennt keine Leeren Ordner. Deshalb bin ich da.
